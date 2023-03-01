@@ -9,6 +9,8 @@ cd album-visualizer.git
 ```
 
 Run the program as follows:
-`python3 spotipyxx.py`
+```
+python3 album-app.py
+```
 
 Enjoy!
