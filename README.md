@@ -1,5 +1,5 @@
 # album-visualizer
-A program that displays the artist and album art for a given song.
+A program that displays the artist and album art for a given song utilizing the spotipy library.
 
 ## How to run:
 Clone and cd into the repository on your command line:
